@@ -73,3 +73,25 @@ This project is ideal for:
 3. Run the file:
 
  • Open index.html in your browser
+
+ ## 📸 Preview
+
+ A visually engaging landing page showcasing coding programs, bootcamp features, and platform branding.
+
+ ## 👨‍💻 Author
+
+ Mian Haseeb Nasir
+ 
+Software Engineer | Full Stack Developer | AI Enthusiast
+
+ ## 🏢 Company
+
+Developed under Nova Stack Technologies
+
+ ## 📜 License
+
+This project is open-source and available for learning and educational purposes.
+
+ ## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
